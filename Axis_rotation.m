@@ -1,4 +1,4 @@
-% Rotation a 3D coordinate system (molecular structure, frame etc.) around 
+% Rotating a 3D coordinate system (molecular structure, frame etc.) around 
 % a chosen axis. 
 %
 % Chunhua Ying     Date: 01/11/2022
